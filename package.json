@@ -1,0 +1,35 @@
+{
+    "name": "minimalist-vscode",
+    "displayName": "Minimalist",
+    "description": "Minimalist theme",
+    "version": "0.0.1",
+    "publisher": "kar",
+    "author": {
+        "name": "kar",
+        "url": "https://github.com/kar9222"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kar9222/minimalist-vscode"
+    },
+    "bugs": {
+        "url": "https://github.com/kar9222/minimalist-vscode/issues",
+        "email": "devpieron@gmail.com"
+    },
+    "license": "MIT",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Minimalist",
+                "uiTheme": "vs-dark",
+                "path": "./themes/minimalist.json"
+            }
+        ]
+    }
+}
