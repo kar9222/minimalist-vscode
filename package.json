@@ -36,9 +36,19 @@
                 "path": "./themes/minimalist_light.json"
             },
             {
+                "label": "Minimalist Light 2",
+                "uiTheme": "vs",
+                "path": "./themes/minimalist_light_2.json"
+            },
+            {
                 "label": "Minimalist Cream",
                 "uiTheme": "vs",
                 "path": "./themes/minimalist_cream.json"
+            },
+            {
+                "label": "Minimalist Cream 2",
+                "uiTheme": "vs",
+                "path": "./themes/minimalist_cream_2.json"
             }
         ]
     }
