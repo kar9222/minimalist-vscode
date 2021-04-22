@@ -49,6 +49,11 @@
                 "label": "Minimalist Cream 2",
                 "uiTheme": "vs",
                 "path": "./themes/minimalist_cream_2.json"
+            },
+            {
+                "label": "Minimalist Cream Dark Terminal",
+                "uiTheme": "vs",
+                "path": "./themes/minimalist_cream_dark_term.json"
             }
         ]
     }
