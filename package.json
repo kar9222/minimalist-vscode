@@ -2,7 +2,7 @@
     "name": "minimalist-vscode",
     "displayName": "Minimalist",
     "description": "Minimalist theme",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "publisher": "kar",
     "author": {
         "name": "kar",
@@ -54,6 +54,13 @@
                 "label": "Minimalist Cream Dark Terminal",
                 "uiTheme": "vs",
                 "path": "./themes/minimalist_cream_dark_term.json"
+            },
+
+            {
+                "label": "Minimalist Cream - Test",
+                "uiTheme": "vs",
+                "path": "./themes/minimalist_cream_test.json",
+                "description": "Compared to Minimalist Cream, lightnesses of green and red are reduced by 5% and 10%, respectively"
             }
         ]
     }
