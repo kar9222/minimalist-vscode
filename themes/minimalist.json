@@ -71,9 +71,9 @@
         "list.inactiveFocusBackground": "#282C35",
         "list.invalidItemForeground": "#B8DDE6",
 
-        "listFilterWidget.background": "#282C35",
-        "listFilterWidget.outline": "#282C35",
-        "listFilterWidget.noMatchesOutline": "#B8DDE6",
+        "listFilterWidget.background": "#515145",
+        "listFilterWidget.outline": "#515145",
+        "listFilterWidget.noMatchesOutline": "#515145",
 
         "activityBar.background": "#282C35",
         "activityBar.dropBackground": "#282C35bf",
