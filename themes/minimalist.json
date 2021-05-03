@@ -781,6 +781,17 @@
         },
         {
             "scope": [
+                "keyword.operator.logical.r",
+                "keyword.operator.other.r",
+                "keyword.operator.comparison.r"
+            ],
+            "settings": {
+                "name": "Operator for R - Comparison, other",
+                "foreground": "#BEC5D3"
+            }
+        },
+        {
+            "scope": [
                 "keyword.operator.func"
             ],
             "settings": {
