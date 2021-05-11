@@ -63,7 +63,7 @@
         "list.focusOutline": "#6e7c9680",
         "quickInput.list.focusBackground": "#282C35",
         "list.focusForeground": "#B8DDE6",
-        "list.highlightForeground": "#e6db7f",
+        "list.highlightForeground": "#E6DB7F",
         "list.hoverBackground": "#282C35",
         "list.hoverForeground": "#B8DDE6",
         "list.inactiveSelectionBackground": "#282C35",
@@ -847,7 +847,7 @@
             ],
             "settings": {
                 "name": "roxygen param",
-                "foreground": "#c7c7bf"
+                "foreground": "#C7C7BF"
             }
         },
         {
@@ -1755,7 +1755,7 @@
             "scope": "comment.line.roxygen.r",
             "settings": {
                 "name": "Roxygen comments",
-                "foreground": "#bec5d3"
+                "foreground": "#BEC5D3"
             }
         },
         {
@@ -1931,7 +1931,7 @@
             "scope": "support.function.julia.setter",
             "settings": {
                 "name": "jl `!`",
-                "foreground": "#c7c7bf"
+                "foreground": "#C7C7BF"
             }
         },
         {
@@ -1958,7 +1958,7 @@
             "scope": "keyword.control.julia.return",
             "settings": {
                 "name": "julia `return`",
-                "foreground": "#c7c7bf"
+                "foreground": "#C7C7BF"
             }
         },
         {
