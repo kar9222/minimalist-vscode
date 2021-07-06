@@ -345,14 +345,14 @@
             "settings": {
                 "name": "Comments and overrides inside comments",
                 "fontStyle": "",
-                "foreground": "#6E7C96"
+                "foreground": "#8b96ac"
             }
         },
         {
             "scope": "comment storage.type",
             "settings": {
                 "name": "JSDoc storage type",
-                "foreground": "#6E7C96"
+                "foreground": "#8b96ac"
             }
         },
         {
@@ -1159,7 +1159,7 @@
             "scope": "punctuation.definition.comment",
             "settings": {
                 "name": "Comment start / end",
-                "foreground": "#6E7C96"
+                "foreground": "#8b96ac"
             }
         },
         {
@@ -1857,7 +1857,7 @@
             "scope": "punctuation.definition.comment.r.trailingpattern",
             "settings": {
                 "name": "R title trailing pattern",
-                "foreground": "#6E7C96"
+                "foreground": "#8b96ac"
             }
         },
         {
