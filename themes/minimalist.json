@@ -40,8 +40,8 @@
         "inputValidation.errorForeground": "#B8DDE6",
         "inputValidation.errorBorder": "#B8DDE6",
         "inputValidation.infoBackground": "#282C35",
-        "inputValidation.infoForeground": "#DCE5EC",
-        "inputValidation.infoBorder": "#DCE5EC",
+        "inputValidation.infoForeground": "#dce7ea",
+        "inputValidation.infoBorder": "#dce7ea",
         "inputValidation.warningBackground": "#282C35",
         "inputValidation.warningForeground": "#f8f8f2",
         "inputValidation.warningBorder": "#f8f8f2",
@@ -164,7 +164,7 @@
         "editor.lineHighlightBackground": "#444956",
         "editor.lineHighlightBorder": "#00000000",
 
-        "editorLink.activeForeground": "#DCE5EC",
+        "editorLink.activeForeground": "#dce7ea",
         "editor.rangeHighlightBackground": "#31343C",
         "editor.rangeHighlightBorder": "#31343C",
 
@@ -180,7 +180,7 @@
         "editorError.border": "#00000000",
         "editorWarning.foreground": "#f8f8f2",
         "editorWarning.border": "#00000000",
-        "editorInfo.foreground": "#DCE5EC",
+        "editorInfo.foreground": "#dce7ea",
         "editorInfo.border": "#282C35",
         "editorHint.foreground": "#E6DB7F",
         "editorHint.border": "#282C35",
@@ -211,7 +211,7 @@
         "editorMarkerNavigation.background": "#282C35",
         "editorMarkerNavigationError.background": "#B8DDE6",
         "editorMarkerNavigationWarning.background": "#f8f8f2",
-        "editorMarkerNavigationInfo.background": "#DCE5EC",
+        "editorMarkerNavigationInfo.background": "#dce7ea",
 
         "peekView.border": "#435455",
         "peekViewEditor.background": "#282C35",
@@ -248,7 +248,7 @@
         "editorOverviewRuler.deletedForeground": "#FFA1AA08",
         "editorOverviewRuler.errorForeground": "#E4CAAF",
         "editorOverviewRuler.warningForeground": "#f8f8f2",
-        "editorOverviewRuler.infoForeground": "#DCE5EC",
+        "editorOverviewRuler.infoForeground": "#dce7ea",
 
         "panel.background": "#282C35",
         "panel.border": "#282C35",
@@ -298,7 +298,7 @@
         "welcomePage.buttonHoverBackground": "#435455",
         "walkThrough.embeddedEditorBackground": "#282C35",
 
-        "gitDecoration.modifiedResourceForeground": "#DCE5EC",
+        "gitDecoration.modifiedResourceForeground": "#dce7ea",
         "gitDecoration.deletedResourceForeground": "#B8DDE6",
         "gitDecoration.untrackedResourceForeground": "#f8f8f2",
         "gitDecoration.ignoredResourceForeground": "#435455",
@@ -315,14 +315,14 @@
         "terminal.ansiWhite": "#b3c5d3",
         "terminal.ansiBlue": "#8b9ea4",
         "terminal.ansiCyan": "#b3c5d3",
-        "terminal.ansiGreen": "#DCE5EC",
+        "terminal.ansiGreen": "#dce7ea",
         "terminal.ansiMagenta": "#B8DDE6",
         "terminal.ansiRed": "#E6DB74",
         "terminal.ansiYellow": "#E6DB74",
 
         "terminal.ansiBrightBlack": "#8b9ea4",
         "terminal.ansiBrightWhite": "#f8f8f2",
-        "terminal.ansiBrightBlue": "#DCE5EC",
+        "terminal.ansiBrightBlue": "#dce7ea",
         "terminal.ansiBrightCyan": "#B8DDE6",
         "terminal.ansiBrightGreen": "#CCD9DD",
         "terminal.ansiBrightMagenta": "#E6DB74",
@@ -390,7 +390,7 @@
             "scope": "comment.git-status.header.local",
             "settings": {
                 "name": "git status local",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -558,7 +558,7 @@
             ],
             "settings": {
                 "name": "Class template",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -572,21 +572,21 @@
             "scope": "entity.name.function.preprocessor",
             "settings": {
                 "name": "Macros",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
             "scope": "entity.name",
             "settings": {
                 "name": "Entity name",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
             "scope": "entity.name.class",
             "settings": {
                 "name": "Class name",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -608,14 +608,14 @@
             "settings": {
                 "name": "Inherited class",
                 "fontStyle": "",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
             "scope": "entity.name.function",
             "settings": {
                 "name": "Function name",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -644,7 +644,7 @@
             ],
             "settings": {
                 "name": "Entity name type",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -652,7 +652,7 @@
             "settings": {
                 "name": "Tag attribute",
                 "fontStyle": "",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -664,7 +664,7 @@
             ],
             "settings": {
                 "name": "CSS class",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -683,7 +683,7 @@
             "settings": {
                 "name": "CSS pseudo class",
                 "fontStyle": "",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -775,7 +775,7 @@
                 "entity.namespace.r"
             ],
             "settings": {
-                "foreground": "#DCE5EC",
+                "foreground": "#dce7ea",
                 "fontStyle": "bold"
             }
         },
@@ -796,7 +796,7 @@
             ],
             "settings": {
                 "name": "Operator",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -916,7 +916,7 @@
             "scope": "markup.underline.link",
             "settings": {
                 "name": "Link",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -926,7 +926,7 @@
             ],
             "settings": {
                 "name": "Diff inserted",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -994,7 +994,7 @@
             ],
             "settings": {
                 "name": "Function call",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -1008,7 +1008,7 @@
             "scope": "meta.instance.constructor",
             "settings": {
                 "name": "Constructor (new MyClass())",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -1018,7 +1018,7 @@
             ],
             "settings": {
                 "name": "Class string name (i.e. in html attributes)",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -1237,7 +1237,7 @@
             "scope": "region.greenish",
             "settings": {
                 "name": "region green color",
-                "foreground": "#DCE5EC",
+                "foreground": "#dce7ea",
                 "background": "#DCE2FB59"
             }
         },
@@ -1245,7 +1245,7 @@
             "scope": "region.bluish",
             "settings": {
                 "name": "region blue color",
-                "foreground": "#DCE5EC",
+                "foreground": "#dce7ea",
                 "background": "#DCE2FB59"
             }
         },
@@ -1454,7 +1454,7 @@
             "scope": "string.other.link.description.title",
             "settings": {
                 "name": "link description",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -1474,7 +1474,7 @@
             ],
             "settings": {
                 "name": "refs (Restructured text)",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -1495,7 +1495,7 @@
             "scope": "support.constant",
             "settings": {
                 "name": "Library constant",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -1516,7 +1516,7 @@
             "scope": "support.function",
             "settings": {
                 "name": "Function name",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -1527,14 +1527,14 @@
             "settings": {
                 "name": "Library type",
                 "fontStyle": "",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
             "scope": "support.variable",
             "settings": {
                 "name": "Support variables",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -1549,7 +1549,7 @@
             "scope": "support.class",
             "settings": {
                 "name": "Library class",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -1610,7 +1610,7 @@
             "scope": "variable.other.class",
             "settings": {
                 "name": "Library function",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -1649,7 +1649,7 @@
             "scope": "variable.function",
             "settings": {
                 "name": "Function and method names should be scoped using the following, but only when they are being invoked. When defined, they should use entity.name.function.",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -1673,7 +1673,7 @@
             "scope": "source.jinja2 variable.other.jinja2.block",
             "settings": {
                 "name": "jinja2 variable block",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -1730,7 +1730,7 @@
             "scope": "markup.inline.raw.string.markdown",
             "settings": {
                 "name": "Rmd inline code",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
 
             }
         },
@@ -1748,7 +1748,7 @@
             "scope": "punctuation.definition.raw.markdown",
             "settings": {
                 "name": "Rmd inline code",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
@@ -1793,7 +1793,7 @@
             ],
             "settings": {
                 "name": "YAML input",
-                "foreground": "#DCE5EC"
+                "foreground": "#dce7ea"
             }
         },
         {
