@@ -4,7 +4,7 @@
 	"author": "Kar",
 	"semanticHighlighting": true,
     "colors": {
-        "focusBorder": "#6E7C96",
+        "focusBorder": "#6e848e",
         "foreground": "#f8f8f2",
         "widget.shadow": "#282C35",
         "selection.background": "#444956",
@@ -17,7 +17,7 @@
         "textLink.activeForeground": "#f8f8f2",
         "textLink.foreground": "#B8DDE6",
         "textPreformat.foreground": "#f8f8f2",
-        "textSeparator.foreground": "#6E7C96",
+        "textSeparator.foreground": "#6e848e",
 
         "button.background": "#282C35",
         "button.foreground": "#f8f8f2",
@@ -31,10 +31,10 @@
         "input.background": "#282C35",
         "input.border": "#31343C",
         "input.foreground": "#f8f8f2",
-        "input.placeholderForeground": "#6E7C96",
+        "input.placeholderForeground": "#6e848e",
 
-        "inputOption.activeBackground": "#434C5D",
-        "inputOption.activeBorder": "#434C5D",
+        "inputOption.activeBackground": "#435455",
+        "inputOption.activeBorder": "#435455",
 
         "inputValidation.errorBackground": "#282C35",
         "inputValidation.errorForeground": "#B8DDE6",
@@ -78,7 +78,7 @@
         "activityBar.background": "#282C35",
         "activityBar.dropBackground": "#282C35bf",
         "activityBar.foreground": "#B8DDE6",
-        "activityBar.inactiveForeground": "#434C5D",
+        "activityBar.inactiveForeground": "#435455",
         "activityBar.border": "#282C35",
         "activityBarBadge.background": "#B8DDE6",
         "activityBarBadge.foreground": "#282C35",
@@ -108,9 +108,9 @@
         "sideBar.foreground": "#f8f8f2",
         "sideBar.border": "#282C35",
         "sideBar.dropBackground": "#282C35bf",
-        "sideBarTitle.foreground": "#434C5D",
+        "sideBarTitle.foreground": "#435455",
         "sideBarSectionHeader.background": "#282C35",
-        "sideBarSectionHeader.foreground": "#6E7C96",
+        "sideBarSectionHeader.foreground": "#6e848e",
 
         "editorGroup.emptyBackground": "#282C35",
         "editorGroup.focusedEmptyBorder": "#282C35",
@@ -133,17 +133,17 @@
         "tab.unfocusedInactiveForeground": "#f8f8f2",
         "tab.hoverBackground": "#282C35",
         "tab.unfocusedHoverBackground": "#282C35",
-        "tab.hoverBorder": "#434C5D",
+        "tab.hoverBorder": "#435455",
         "tab.unfocusedHoverBorder": "#282C35",
-        "tab.activeModifiedBorder": "#434C5D",
-        "tab.inactiveModifiedBorder": "#434C5D",
+        "tab.activeModifiedBorder": "#435455",
+        "tab.inactiveModifiedBorder": "#435455",
         "tab.unfocusedActiveModifiedBorder": "#31343C",
         "tab.unfocusedInactiveModifiedBorder": "#31343C",
 
         "editor.background": "#282C35",
         "editor.foreground": "#f8f8f2",
-        "editorLineNumber.foreground": "#434C5D",
-        "editorLineNumber.activeForeground": "#434C5D",
+        "editorLineNumber.foreground": "#435455",
+        "editorLineNumber.activeForeground": "#435455",
         "editorCursor.background": "#282C35",
         "editorCursor.foreground": "#b3c5d3",
         "editor.selectionBackground": "#444956",
@@ -168,13 +168,13 @@
         "editor.rangeHighlightBackground": "#31343C",
         "editor.rangeHighlightBorder": "#31343C",
 
-        "editorWhitespace.foreground": "#434C5D",
+        "editorWhitespace.foreground": "#435455",
         "editorIndentGuide.background": "#282C35",
-        "editorRuler.foreground": "#434C5D",
-        "editorCodeLens.foreground": "#6E7C96",
+        "editorRuler.foreground": "#435455",
+        "editorCodeLens.foreground": "#6e848e",
 
         "editorBracketMatch.background": "#282C35",
-        "editorBracketMatch.border": "#6E7C96",
+        "editorBracketMatch.border": "#6e848e",
 
         "editorError.foreground": "#B8DDE6",
         "editorError.border": "#00000000",
@@ -189,10 +189,10 @@
 
         "editorGutter.background": "#282C35",
         "editorGutter.modifiedBackground": "#444956",
-        "editorGutter.addedBackground": "#8299B613",
+        "editorGutter.addedBackground": "#82a1ae13",
         "editorGutter.deletedBackground": "#FFA1AA08",
 
-        "diffEditor.insertedTextBackground": "#8299B613",
+        "diffEditor.insertedTextBackground": "#82a1ae13",
         "diffEditor.removedTextBackground": "#FFA1AA08",
 
         "editorWidget.background": "#282C35",
@@ -204,7 +204,7 @@
 		"editorSuggestWidget.highlightForeground": "#CCD9DD",
 		"editorSuggestWidget.selectedBackground": "#31343E",
         "editorHoverWidget.background": "#282C35",
-        "editorHoverWidget.border": "#434C5D",
+        "editorHoverWidget.border": "#435455",
         "debugExceptionWidget.background": "#282C35",
         "debugExceptionWidget.border": "#282C35",
 
@@ -213,18 +213,18 @@
         "editorMarkerNavigationWarning.background": "#f8f8f2",
         "editorMarkerNavigationInfo.background": "#DCE5EC",
 
-        "peekView.border": "#434C5D",
+        "peekView.border": "#435455",
         "peekViewEditor.background": "#282C35",
         "peekViewEditorGutter.background": "#282C35",
         "peekViewEditor.matchHighlightBackground": "#1f454f",
         "peekViewResult.background": "#282C35",
         "peekViewResult.fileForeground": "#f8f8f2",
         "peekViewResult.lineForeground": "#f8f8f2",
-        "peekViewResult.matchHighlightBackground": "#434C5D",
+        "peekViewResult.matchHighlightBackground": "#435455",
         "peekViewResult.selectionBackground": "#282C35",
         "peekViewResult.selectionForeground": "#B8DDE6",
         "peekViewTitle.background": "#282C35",
-        "peekViewTitleDescription.foreground": "#6E7C96",
+        "peekViewTitleDescription.foreground": "#6e848e",
         "peekViewTitleLabel.foreground": "#CCD9DD",
 
         "merge.currentHeaderBackground": "#B2E3E626",
@@ -244,7 +244,7 @@
         "editorOverviewRuler.wordHighlightForeground": "#444956",
         "editorOverviewRuler.wordHighlightStrongForeground": "#444956",
         "editorOverviewRuler.modifiedForeground": "#444956",
-        "editorOverviewRuler.addedForeground": "#8299B613",
+        "editorOverviewRuler.addedForeground": "#82a1ae13",
         "editorOverviewRuler.deletedForeground": "#FFA1AA08",
         "editorOverviewRuler.errorForeground": "#E4CAAF",
         "editorOverviewRuler.warningForeground": "#f8f8f2",
@@ -258,13 +258,13 @@
         "panelTitle.inactiveForeground": "#f8f8f2",
 
         "statusBar.background": "#282C35",
-        "statusBar.foreground": "#8299B6",
+        "statusBar.foreground": "#82a1ae",
         "statusBar.border": "#282C35",
         "statusBar.debuggingBackground": "#515145",
         "statusBar.debuggingForeground": "#f8f8f2",
         "statusBar.debuggingBorder": "#282C35",
         "statusBar.noFolderBackground": "#282C35",
-        "statusBar.noFolderForeground": "#6E7C96",
+        "statusBar.noFolderForeground": "#6e848e",
         "statusBar.noFolderBorder": "#282C35",
         "statusBarItem.activeBackground": "#282C35",
         "statusBarItem.hoverBackground": "#282C35",
@@ -274,7 +274,7 @@
         "titleBar.activeBackground": "#282C35",
         "titleBar.activeForeground": "#f8f8f2",
         "titleBar.inactiveBackground": "#282C35",
-        "titleBar.inactiveForeground": "#434C5D",
+        "titleBar.inactiveForeground": "#435455",
         "titleBar.border": "#282C35",
 
         "notificationCenter.border": "#31343C",
@@ -288,20 +288,20 @@
 
         "extensionButton.prominentForeground": "#f8f8f2",
         "extensionButton.prominentBackground": "#282C35",
-        "extensionButton.prominentHoverBackground": "#434C5D",
+        "extensionButton.prominentHoverBackground": "#435455",
 
         "pickerGroup.border": "#282C35",
-        "pickerGroup.foreground": "#434C5D",
+        "pickerGroup.foreground": "#435455",
 
         "debugToolBar.background": "#282C35",
         "welcomePage.buttonBackground": "#282C35",
-        "welcomePage.buttonHoverBackground": "#434C5D",
+        "welcomePage.buttonHoverBackground": "#435455",
         "walkThrough.embeddedEditorBackground": "#282C35",
 
         "gitDecoration.modifiedResourceForeground": "#DCE5EC",
         "gitDecoration.deletedResourceForeground": "#B8DDE6",
         "gitDecoration.untrackedResourceForeground": "#f8f8f2",
-        "gitDecoration.ignoredResourceForeground": "#434C5D",
+        "gitDecoration.ignoredResourceForeground": "#435455",
         "gitDecoration.conflictingResourceForeground": "#f8f8f2",
 
 		"tree.indentGuidesStroke": "#434C5F",
@@ -311,7 +311,7 @@
         "terminal.selectionBackground": "#444958",
         "terminalCursor.foreground": "#b3c5d3",
 
-        "terminal.ansiBlack": "#434C5D",
+        "terminal.ansiBlack": "#435455",
         "terminal.ansiWhite": "#b3c5d3",
         "terminal.ansiBlue": "#8b9ea4",
         "terminal.ansiCyan": "#b3c5d3",
@@ -481,7 +481,7 @@
             "scope": "constant.character.escape",
             "settings": {
                 "name": "Character escape",
-                "foreground": "#6E7C96"
+                "foreground": "#6e848e"
             }
         },
         {
@@ -492,7 +492,7 @@
             ],
             "settings": {
                 "name": "Character escape backslash",
-                "foreground": "#434C5D"
+                "foreground": "#435455"
             }
         },
         {
@@ -516,7 +516,7 @@
             "scope": "constant.numeric.line-number.find-in-files",
             "settings": {
                 "name": "Search result line numbers",
-                "foreground": "#434C5D"
+                "foreground": "#435455"
             }
         },
         {
@@ -787,7 +787,7 @@
             ],
             "settings": {
                 "name": "Operator for R - Comparison, other",
-                "foreground": "#BEC5D3"
+                "foreground": "#becdcb"
             }
         },
         {
@@ -822,7 +822,7 @@
                 "keyword.operator.custom"
             ],
             "settings": {
-                "foreground": "#6E7C96"
+                "foreground": "#6e848e"
             }
         },
         {
@@ -830,7 +830,7 @@
                 "keyword.operator.fix.clashes.with.source"
             ],
             "settings": {
-                "foreground": "#6E7C96"
+                "foreground": "#6e848e"
             }
         },
         {
@@ -956,7 +956,7 @@
             ],
             "settings": {
                 "name": "Diff ignored",
-                "foreground": "#6E7C96"
+                "foreground": "#6e848e"
             }
         },
         {
@@ -984,7 +984,7 @@
             ],
             "settings": {
                 "name": "Braces, delimiters",
-                "foreground": "#6E7C96"
+                "foreground": "#6e848e"
             }
         },
         {
@@ -1130,7 +1130,7 @@
             "scope": "punctuation",
             "settings": {
                 "name": "Punctuation",
-                "foreground": "#6E7C96"
+                "foreground": "#6e848e"
             }
         },
         {
@@ -1145,14 +1145,14 @@
             ],
             "settings": {
                 "name": "Punctuation tags",
-                "foreground": "#6E7C96"
+                "foreground": "#6e848e"
             }
         },
         {
             "scope": "punctuation.definition.group",
             "settings": {
                 "name": "Group (i.e. in regex)",
-                "foreground": "#6E7C96"
+                "foreground": "#6e848e"
             }
         },
         {
@@ -1182,7 +1182,7 @@
             ],
             "settings": {
                 "name": "Punctuation section embedded (i.e. ?php blocks in html)",
-                "foreground": "#6E7C96"
+                "foreground": "#6e848e"
             }
         },
         {
@@ -1283,7 +1283,7 @@
             "scope": "source.r",
             "settings": {
                 "name": "source.r",
-                "foreground": "#6E7C96"
+                "foreground": "#6e848e"
             }
         },
 
@@ -1437,7 +1437,7 @@
             "scope": "string source punctuation.section.embedded",
             "settings": {
                 "name": "Embedded punctuation begin / end in template string",
-                "foreground": "#6E7C96"
+                "foreground": "#6e848e"
             }
         },
         {
@@ -1705,7 +1705,7 @@
             "scope": "markup.underline.link.markdown",
             "settings": {
                 "name": "Rmd link",
-                "foreground": "#6E7C96",
+                "foreground": "#6e848e",
                 "fontStyle": "italic"
             }
         },
@@ -1741,7 +1741,7 @@
             ],
             "settings": {
                 "name": "Rmd punctuations of italic, bold, inline code",
-                "foreground": "#434C5D"
+                "foreground": "#435455"
             }
         },
         {
@@ -1775,7 +1775,7 @@
             ],
             "settings": {
                 "name": "Rmd block fence",
-                "foreground": "#6E7C96"
+                "foreground": "#6e848e"
             }
         },
         {
@@ -1814,7 +1814,7 @@
             "scope": "vim.end.end.end",
             "settings": {
                 "name": "Viml end",
-                "foreground": "#6E7C96"
+                "foreground": "#6e848e"
             }
         },
         {
@@ -1842,7 +1842,7 @@
             "scope": "punctuation.definition.comment.r",
             "settings": {
                 "name": "R comment starting sym",
-                "foreground": "#434C5D"
+                "foreground": "#435455"
             }
         },
         {
@@ -1871,7 +1871,7 @@
             "scope": "keyword.control.r.func",
             "settings": {
                 "name": "R func declaration: literal `function`",
-                "foreground": "#BEC5D3"
+                "foreground": "#becdcb"
             }
         },
 
@@ -1895,7 +1895,7 @@
             ],
             "settings": {
                 "name": "jl `function`, `consts`, etc",
-                "foreground": "#BEC5D3",
+                "foreground": "#becdcb",
                 "fontStyle": "bold"
             }
         },
@@ -1910,7 +1910,7 @@
             "scope": "keyword.control.end.julia",
             "settings": {
                 "name": "jl `end`",
-                "foreground": "#6E7C96"
+                "foreground": "#6e848e"
             }
         },
         {
@@ -1924,7 +1924,7 @@
             "scope": "support.function.macro.julia.at.operator",
             "settings": {
                 "name": "jl `@`",
-                "foreground": "#BEC5D3"
+                "foreground": "#becdcb"
             }
         },
         {
@@ -1941,7 +1941,7 @@
             ],
             "settings": {
                 "name": "jl type",
-                "foreground": "#BEC5D3"
+                "foreground": "#becdcb"
             }
         },
         {
@@ -1951,7 +1951,7 @@
             ],
             "settings": {
                 "name": "julia brackets, semi colon",
-                "foreground": "#6E7C96"
+                "foreground": "#6e848e"
             }
         },
         {
@@ -1985,7 +1985,7 @@
             ],
             "settings": {
                 "name": "julia and R operators",
-                "foreground": "#BEC5D3"
+                "foreground": "#becdcb"
             }
         },
         {
