@@ -5,6 +5,7 @@ _NOTE Draft only...many TODOs. Haven't updated for a super long time._
 Personal theme package as part of [minimalist](https://github.com/kar9222/minimalist). See there for details.
 
 TODO
+- Add new dark-greenish theme
 - Add light theme
 - Publish to VSCode extension store
 
