@@ -9,13 +9,13 @@
         "widget.shadow": "#282C35",
         "selection.background": "#444956",
         "descriptionForeground": "#f8f8f2",
-        "errorForeground": "#B8DDE6",
+        "errorForeground": "#dac8c8",
 
         "textBlockQuote.background": "#282C35",
         "textBlockQuote.border": "#31343C",
         "textCodeBlock.background": "#282C35",
         "textLink.activeForeground": "#f8f8f2",
-        "textLink.foreground": "#B8DDE6",
+        "textLink.foreground": "#dac8c8",
         "textPreformat.foreground": "#f8f8f2",
         "textSeparator.foreground": "#6e848e",
 
@@ -37,8 +37,8 @@
         "inputOption.activeBorder": "#435455",
 
         "inputValidation.errorBackground": "#282C35",
-        "inputValidation.errorForeground": "#B8DDE6",
-        "inputValidation.errorBorder": "#B8DDE6",
+        "inputValidation.errorForeground": "#dac8c8",
+        "inputValidation.errorBorder": "#dac8c8",
         "inputValidation.infoBackground": "#282C35",
         "inputValidation.infoForeground": "#dce7ea",
         "inputValidation.infoBorder": "#dce7ea",
@@ -52,24 +52,24 @@
         "scrollbarSlider.hoverBackground": "#f8f8f212",
 
         "badge.foreground": "#282C35",
-        "badge.background": "#B8DDE6",
+        "badge.background": "#dac8c8",
         "progressBar.background": "#282C35",
 
         "list.activeSelectionBackground": "#282C35",
-        "list.activeSelectionForeground": "#B8DDE6",
-        "list.errorForeground": "#B8DDE6",
+        "list.activeSelectionForeground": "#dac8c8",
+        "list.errorForeground": "#dac8c8",
         "list.warningForeground": "#f8f8f2",
         "list.dropBackground": "#282C35bf",
         "list.focusOutline": "#6e7c9680",
         "quickInput.list.focusBackground": "#282C35",
-        "list.focusForeground": "#B8DDE6",
+        "list.focusForeground": "#dac8c8",
         "list.highlightForeground": "#E6DB7F",
         "list.hoverBackground": "#282C35",
-        "list.hoverForeground": "#B8DDE6",
+        "list.hoverForeground": "#dac8c8",
         "list.inactiveSelectionBackground": "#282C35",
-        "list.inactiveSelectionForeground": "#B8DDE6",
+        "list.inactiveSelectionForeground": "#dac8c8",
         "list.inactiveFocusBackground": "#282C35",
-        "list.invalidItemForeground": "#B8DDE6",
+        "list.invalidItemForeground": "#dac8c8",
 
         "listFilterWidget.background": "#515145",
         "listFilterWidget.outline": "#515145",
@@ -77,23 +77,23 @@
 
         "activityBar.background": "#282C35",
         "activityBar.dropBackground": "#282C35bf",
-        "activityBar.foreground": "#B8DDE6",
+        "activityBar.foreground": "#dac8c8",
         "activityBar.inactiveForeground": "#435455",
         "activityBar.border": "#282C35",
-        "activityBarBadge.background": "#B8DDE6",
+        "activityBarBadge.background": "#dac8c8",
         "activityBarBadge.foreground": "#282C35",
 
         "breadcrumb.foreground": "#f8f8f2",
         "breadcrumb.focusForeground": "#c1c0c0",
         "breadcrumb.activeSelectionForeground": "#f8f8f2",
 
-        "settings.headerForeground": "#B8DDE6",
-        "settings.modifiedItemForeground": "#B8DDE6",
+        "settings.headerForeground": "#dac8c8",
+        "settings.modifiedItemForeground": "#dac8c8",
         "settings.dropdownBackground": "#282C35",
         "settings.dropdownForeground": "#f8f8f2",
         "settings.dropdownBorder": "#31343C",
         "settings.dropdownListBorder": "#f8f8f2",
-        "settings.modifiedItemIndicator": "#B8DDE6",
+        "settings.modifiedItemIndicator": "#dac8c8",
         "settings.checkboxBackground": "#282C35",
         "settings.checkboxForeground": "#f8f8f2",
         "settings.checkboxBorder": "#31343C",
@@ -123,9 +123,9 @@
         "editorPane.background": "#282C35",
 
         "tab.activeBackground": "#282C35",
-        "tab.activeForeground": "#B8DDE6",
+        "tab.activeForeground": "#dac8c8",
         "tab.border": "#282C35",
-        "tab.activeBorder": "#B8DDE6",
+        "tab.activeBorder": "#dac8c8",
         "tab.unfocusedActiveBorder": "#f8f8f2",
         "tab.inactiveBackground": "#282C35",
         "tab.inactiveForeground": "#f8f8f2",
@@ -176,7 +176,7 @@
         "editorBracketMatch.background": "#282C35",
         "editorBracketMatch.border": "#6e848e",
 
-        "editorError.foreground": "#B8DDE6",
+        "editorError.foreground": "#dac8c8",
         "editorError.border": "#00000000",
         "editorWarning.foreground": "#f8f8f2",
         "editorWarning.border": "#00000000",
@@ -209,7 +209,7 @@
         "debugExceptionWidget.border": "#282C35",
 
         "editorMarkerNavigation.background": "#282C35",
-        "editorMarkerNavigationError.background": "#B8DDE6",
+        "editorMarkerNavigationError.background": "#dac8c8",
         "editorMarkerNavigationWarning.background": "#f8f8f2",
         "editorMarkerNavigationInfo.background": "#dce7ea",
 
@@ -222,7 +222,7 @@
         "peekViewResult.lineForeground": "#f8f8f2",
         "peekViewResult.matchHighlightBackground": "#435455",
         "peekViewResult.selectionBackground": "#282C35",
-        "peekViewResult.selectionForeground": "#B8DDE6",
+        "peekViewResult.selectionForeground": "#dac8c8",
         "peekViewTitle.background": "#282C35",
         "peekViewTitleDescription.foreground": "#6e848e",
         "peekViewTitleLabel.foreground": "#CCD9DD",
@@ -253,8 +253,8 @@
         "panel.background": "#282C35",
         "panel.border": "#282C35",
         "panel.dropBackground": "#282C35bf",
-        "panelTitle.activeBorder": "#B8DDE6",
-        "panelTitle.activeForeground": "#B8DDE6",
+        "panelTitle.activeBorder": "#dac8c8",
+        "panelTitle.activeForeground": "#dac8c8",
         "panelTitle.inactiveForeground": "#f8f8f2",
 
         "statusBar.background": "#282C35",
@@ -284,7 +284,7 @@
         "notifications.foreground": "#c1c0c0",
         "notifications.background": "#282C35",
         "notifications.border": "#31343C",
-        "notificationLink.foreground": "#B8DDE6",
+        "notificationLink.foreground": "#dac8c8",
 
         "extensionButton.prominentForeground": "#f8f8f2",
         "extensionButton.prominentBackground": "#282C35",
@@ -299,7 +299,7 @@
         "walkThrough.embeddedEditorBackground": "#282C35",
 
         "gitDecoration.modifiedResourceForeground": "#dce7ea",
-        "gitDecoration.deletedResourceForeground": "#B8DDE6",
+        "gitDecoration.deletedResourceForeground": "#dac8c8",
         "gitDecoration.untrackedResourceForeground": "#f8f8f2",
         "gitDecoration.ignoredResourceForeground": "#435455",
         "gitDecoration.conflictingResourceForeground": "#f8f8f2",
@@ -316,18 +316,18 @@
         "terminal.ansiBlue": "#8b9ea4",
         "terminal.ansiCyan": "#b3c5d3",
         "terminal.ansiGreen": "#dce7ea",
-        "terminal.ansiMagenta": "#B8DDE6",
+        "terminal.ansiMagenta": "#dac8c8",
         "terminal.ansiRed": "#E6DB74",
         "terminal.ansiYellow": "#E6DB74",
 
         "terminal.ansiBrightBlack": "#8b9ea4",
         "terminal.ansiBrightWhite": "#f8f8f2",
         "terminal.ansiBrightBlue": "#dce7ea",
-        "terminal.ansiBrightCyan": "#B8DDE6",
+        "terminal.ansiBrightCyan": "#dac8c8",
         "terminal.ansiBrightGreen": "#CCD9DD",
         "terminal.ansiBrightMagenta": "#E6DB74",
         "terminal.ansiBrightRed": "#ECEFF4",
-        "terminal.ansiBrightYellow": "#B8DDE6"
+        "terminal.ansiBrightYellow": "#dac8c8"
     },
 
 
@@ -383,7 +383,7 @@
             "scope": "comment.git-status.header.remote",
             "settings": {
                 "name": "git status remote",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -523,14 +523,14 @@
             "scope": "constant.numeric.line-number.match.find-in-files",
             "settings": {
                 "name": "Search result matched line numbes",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
             "scope": "entity.name.section",
             "settings": {
                 "name": "Sections",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -626,7 +626,7 @@
             ],
             "settings": {
                 "name": "Tag name",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -742,21 +742,21 @@
             "scope": "keyword",
             "settings": {
                 "name": "Keyword",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
             "scope": "keyword.control",
             "settings": {
                 "name": "Control keywords examples include if, try, end and while. Some syntaxes prefer to mark if and else with the conditional variant. The import variant is often used in appropriate situations.",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
             "scope": "keyword.control.directive",
             "settings": {
                 "name": "keyword control directive",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -805,7 +805,7 @@
             ],
             "settings": {
                 "name": "Operator",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -864,7 +864,7 @@
             ],
             "settings": {
                 "name": "Template literal begin / end",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -895,7 +895,7 @@
             "scope": "markup.heading",
             "settings": {
                 "name": "Heading",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -936,7 +936,7 @@
             ],
             "settings": {
                 "name": "Diff deleted",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -946,7 +946,7 @@
             ],
             "settings": {
                 "name": "Diff changed",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -1092,7 +1092,7 @@
             ],
             "settings": {
                 "name": "JSON values",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -1123,7 +1123,7 @@
             "scope": "meta.diff.git-diff.header",
             "settings": {
                 "name": "git diff header",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -1196,7 +1196,7 @@
             ],
             "settings": {
                 "name": "Punctuation template string (`example`)",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -1213,7 +1213,7 @@
             "scope": "region.redish",
             "settings": {
                 "name": "region red color",
-                "foreground": "#B8DDE6",
+                "foreground": "#dac8c8",
                 "background": "#B2E3E659"
             }
         },
@@ -1261,7 +1261,7 @@
             "scope": "region.pinkish",
             "settings": {
                 "name": "region pink color",
-                "foreground": "#B8DDE6",
+                "foreground": "#dac8c8",
                 "background": "#B2E3E659"
             }
         },
@@ -1367,7 +1367,7 @@
             "scope": "storage",
             "settings": {
                 "name": "Storage",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -1375,7 +1375,7 @@
             "settings": {
                 "name": "Types and definition/declaration keywords should use the following scope. Examples include int, bool, char, func, function, class and def. Depending on the language and semantics, const may be this or storage.modifier.",
                 "fontStyle": "",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -1383,7 +1383,7 @@
             "settings": {
                 "name": "Extends",
                 "fontStyle": "normal",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -1391,7 +1391,7 @@
             "settings": {
                 "name": "Fat arrow function",
                 "fontStyle": "normal",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -1402,7 +1402,7 @@
             "settings": {
                 "name": "Keywords that affect the storage of a variable, function or data structure should use the following scope. Examples include static, inline, const, public and private.",
                 "fontStyle": "",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -1447,7 +1447,7 @@
             ],
             "settings": {
                 "name": "link title",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -1464,7 +1464,7 @@
             ],
             "settings": {
                 "name": "String regexp begin / end",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -1488,7 +1488,7 @@
             "scope": "string.other.git-status.remote",
             "settings": {
                 "name": "git status remote",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -1864,7 +1864,7 @@
             "scope": "entity.name.function.r.func",
             "settings": {
                 "name": "R func declaration: variable",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
@@ -1903,7 +1903,7 @@
             "scope": "entity.name.function.julia",
             "settings": {
                 "name": "jl func declaration: variable",
-                "foreground": "#B8DDE6"
+                "foreground": "#dac8c8"
             }
         },
         {
