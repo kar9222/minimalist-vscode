@@ -238,7 +238,7 @@
         "editorOverviewRuler.border": "#282C35",
         "editorOverviewRuler.currentContentForeground": "#282C35",
         "editorOverviewRuler.incomingContentForeground": "#282C35",
-        "editorOverviewRuler.findMatchForeground": "#6e7c96",
+        "editorOverviewRuler.findMatchForeground": "#e6dc7fcc",
         "editorOverviewRuler.rangeHighlightForeground": "#444956",
         "editorOverviewRuler.selectionHighlightForeground": "#444956",
         "editorOverviewRuler.wordHighlightForeground": "#444956",
